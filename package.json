@@ -1,0 +1,9 @@
+{
+  "name": "email_detector",
+  "version": "0.0.1",
+  "description": "Ark scraper for mapping from email to public profiles.",
+  "private": true,
+   "dependencies": {
+    "request": "*"
+  }
+}
